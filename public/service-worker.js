@@ -1,12 +1,11 @@
 const FILES_TO_CACHE = [
     "/",
     "/index.html",
-    "/favorites.html",
-    "/topic.html",
-    "/assets/css/style.css",
-    "/dist/app.bundle.js",
-    "/dist/favorites.bundle.js",
-    "/dist/topic.bundle.js"
+    "/index.js",
+    "/webpack.config.js",
+    "/styles.css",
+    "/icons/icon-192x192.png",
+    "/icons/icon-192x192.png"
   ];
   
   
